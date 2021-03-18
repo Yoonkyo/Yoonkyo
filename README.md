@@ -1,5 +1,5 @@
 # Yoonkyo Jung
-- 👋 Hi, I’m @Yoonkyo
+👋 Hi, I’m @Yoonkyo
 
 
 [![Yoonkyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonkyo&count_private=true&hide=prs,issues&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
