@@ -1,8 +1,9 @@
 # Yoonkyo Jung
-👋 Hi, I’m @Yoonkyo
+👋 Hi, I’m Yoonkyo Jung, a Ph.D. student at UMD!
 
-
+<!---
 [![Yoonkyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonkyo&count_private=true&hide=prs,issues&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 <!---
 - 👋 Hi, I’m @Yoonkyo
